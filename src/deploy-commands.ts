@@ -20,4 +20,4 @@ rest.put(Routes.applicationGuildCommands(config.CLIENT_ID, config.GUILD_ID), {bo
 }).catch(console.error)
 
 // Now call applicationGuildCommands register thing
-// Create new script in package.json
+// Create new script in package.json "deploy:commands": "tsc && node build/deploy-commands.js"
