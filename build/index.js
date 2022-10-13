@@ -1,2 +1,3 @@
 "use strict";
-console.log("Hello Discord Bot");
+Object.defineProperty(exports, "__esModule", { value: true });
+require("./bot");

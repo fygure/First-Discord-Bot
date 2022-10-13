@@ -7,3 +7,8 @@ ESlint rules:
     - Requiring accessing properties to be on the same line;
     - Requiring indenting to be done with tabs;
     - Limiting nested callbacks to 4. If you hit this error, it is a good idea to consider refactoring your code.
+
+
+PS Commands:
+yarn deploy:commands
+yarn dev
