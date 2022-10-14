@@ -1,0 +1,3 @@
+Features
+
+- /quote command that pulls from a quote bank and randomly picks one.

@@ -7,7 +7,10 @@ import config from "./config"
 const commands = [
     new SlashCommandBuilder()
     .setName("ping")
-    .setDescription("pong!")
+    .setDescription("pong"),
+    new SlashCommandBuilder()
+    .setName("swag")
+    .setDescription("balls")
 ];
 
 // Register command

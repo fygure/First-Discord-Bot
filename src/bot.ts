@@ -23,7 +23,10 @@ client.on('interactionCreate', async interaction => {
     }
     const { commandName } = interaction;
     if (commandName == 'ping') {
-        return interaction.reply("pong")
+        return interaction.reply("pong!!")
+    }
+    if (commandName == 'swag') {
+        return interaction.reply("balls!!")
     }
 })
 
