@@ -3,6 +3,7 @@
 import { Client } from "discord.js"
 import config from "./config"
 
+
 // Define new instance of the client to use in REST API
 // intents - permissions that the bot requires
 export const client = new Client({ 
