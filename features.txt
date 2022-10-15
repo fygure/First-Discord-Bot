@@ -1,3 +1,4 @@
 Features
 
-- /quote command that pulls from a quote bank and randomly picks one.
+- /quote (command that pulls from a quote bank and randomly picks one)
+- /rules (command that lists the server rules)
